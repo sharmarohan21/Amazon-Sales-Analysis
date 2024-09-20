@@ -1,2 +1,2 @@
 # Amazon-Sales-Analysis
-created Amazon sales dashboard using excel, finding key metrics.
+Created Amazon sales dashboard using excel, finding key metrics.
